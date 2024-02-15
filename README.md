@@ -18,15 +18,18 @@
     - 스택 : Last In First Out (LIFO)
         - pop - list.pop()
         - push - list.append()
+
+    ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
+
     - 큐 : First In First Out (FIFO)
 
     ![queue](https://raw.githubusercontent.com/RiverGang/ds-and-algorithm-2024/main/images/queue.png)
     
-    - 트리
-    - 그래프
-
 ## 4일차
 - 파이썬 자료구조
+    - 큐 복습
+    - 트리
+    - 그래프ㅂ
 
 ## 5일차
 
