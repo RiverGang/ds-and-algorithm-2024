@@ -19,6 +19,9 @@
         - pop - list.pop()
         - push - list.append()
     - 큐 : First In First Out (FIFO)
+
+    ![queue](https://raw.githubusercontent.com/RiverGang/ds-and-algorithm-2024/main/images/queue.png)
+    
     - 트리
     - 그래프
 
