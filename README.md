@@ -43,11 +43,14 @@
 ## 5일차
 - 파이썬 자료구조/알고리즘
     - 그래프
+
+    ![graph02](https://raw.githubusercontent.com/RiverGang/ds-and-algorithm-2024/main/images/graph02.png)
+    
+
+## 6일차 (24.02.19)
+- 파이썬 자료구조/알고리즘
     - 재귀호출
     - 정렬
-    - 검색
-
-## 6일차
 
 ## 7일차
 
