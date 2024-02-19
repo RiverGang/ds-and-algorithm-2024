@@ -51,10 +51,13 @@
 - 파이썬 자료구조/알고리즘
     - 재귀호출
     - 정렬
-        - 선택정렬 Selection Sort - 최소 값을 찾아 맨 앞으로 0(n^2)
-        - 삽입정렬 Insertion Sort - 기준 값을 기준으로 앞뒤로 이동 0(n^2)
-        - 버블정렬 Bubble Sort - 기준 값 기준으로 제일 큰 값을 뒤로 정렬 0(n^2)
+        - 선택정렬 Selection Sort - 최소 값을 찾아 맨 앞으로 
+        - 삽입정렬 Insertion Sort - 기준 값을 기준으로 앞뒤로 이동 
+        - 버블정렬 Bubble Sort - 기준 값 기준으로 제일 큰 값을 뒤로 정렬 
         - 퀵정렬 Quick Sort - 기준 값 기준으로 작은값그룹/큰값그룹을 분리한 뒤 다시 정렬 재귀호출 0(nlogn)
+    
+    ![정렬](https://raw.githubusercontent.com/RiverGang/ds-and-algorithm-2024/main/images/sorting.jpg)
+    
 
 ## 7일차
 - 파이썬 자료구조/알고리즘
